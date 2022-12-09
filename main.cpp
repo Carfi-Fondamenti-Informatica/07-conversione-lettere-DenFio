@@ -6,7 +6,7 @@ extern char ris;
 int main(){
     char a;
     char b;
-    cout<<"inserire un carattere":<<endl;
+    cout<<"inserire un carattere:"<<endl;
     cin>>a;
     b= conv(a);
     if (b==true) {
